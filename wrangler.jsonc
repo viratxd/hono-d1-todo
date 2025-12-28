@@ -43,8 +43,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "hono-d1-todo",
-			"database_id": "27987a5b-9200-4d8f-8e95-290426c00a9a",
+			"database_name": "hono-geno",
+			"database_id": "9ca01319-dc79-4469-a512-ef19d639c85a",
 			"migrations_dir": "drizzle"
 		}
 	]
